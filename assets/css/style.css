@@ -194,8 +194,8 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 .navbar-brand {
 	width: 117px;
 	height: 66px;
-	background: url(../img/logo.png) left center no-repeat;
-	text-indent: -99999px;
+	/*background: url(../img/logo.png) left center no-repeat;*/
+	/*text-indent: -99999px;*/
 }
 
 
